@@ -2,15 +2,22 @@
 Web Tasarım ve Programlama Dalı 2.Dönem 1 Sınav Çalışma Kağıdı Soruları ve Cevapları
 
 #Sorular 
-
-
-
 JAVASCRIPT ÇALIŞMA SORULARI
-1.	Kullanıcının istediği değere kadar olan sayılardan 3 ve 5’e bölünebilme kuralına uyan sayıları ekrana alt alta yazdıran program.
-2.	Kullanıcıya iki sayı sorup bu sayıların toplamını ekrana uyarı mesajı olarak “Bu sayıların toplamı….:**’dır” şeklinde yazdıran program.
-3.	Kullanıcıya iki sayı sorup bu sayıların farkını ekrana uyarı mesajı olarak “Bu sayıların toplamı….:**’dır” şeklinde yazdıran program.
+
+
+1.	Kullanıcının istediği değere kadar olan sayılardan 3 ve 5’e bölünebilme kuralına uyan sayıları ekrana alt alta yazdıran program.  
+
+
+2.	Kullanıcıya iki sayı sorup bu sayıların toplamını ekrana uyarı mesajı olarak “Bu sayıların toplamı….:**’dır” şeklinde yazdıran program. 
+
+
+3.	Kullanıcıya iki sayı sorup bu sayıların farkını ekrana uyarı mesajı olarak “Bu sayıların toplamı….:**’dır” şeklinde yazdıran program.  
+
 4.	Kullanıcıya iki sayı sorup bu sayıların çarpımını ekrana uyarı mesajı olarak “Bu sayıların toplamı….:**’dır” şeklinde yazdıran program.
-5.	Kullanıcıya iki sayı sorup bu sayıların bölümünü ekrana uyarı mesajı olarak “Bu sayıların toplamı….:**’dır” şeklinde yazdıran program.
+
+
+5.	Kullanıcıya iki sayı sorup bu sayıların bölümünü ekrana uyarı mesajı olarak “Bu sayıların toplamı….:**’dır” şeklinde yazdıran program.   
+
 6.	Kullanıcıya hem ismini hem de 1.yazılı 2.yazılı 1.sözlü 2.sözlü puanlarını sorup ortalamasını alan, çıkan sonucu ekrana uyarı mesajı olarak “…… isimli kişinin ortalama puanı **’dır” yazan, ayrıca bu kişinin notu 50’den yüksekse ekrana “GEÇTİ” düşükse “KALDI” şeklinde ekrana uyarı mesajı yazan program. 
 7.	Kullanıcı “0” değerini girene kadar girdiği sayıların çarpımını alıp ekrana “Girdiğiniz sayıların çarpımı **’dır.” Şeklinde uyarı mesajı olarak yazdıran program.
 8.	Kullanıcıdan istenilen değere göre faktoriyel alan ve bu değeri ekrana “Girdiğiniz sayının faktöriyeli….**’dir.” Şeklinde uyarı mesajı olarak yazdıran program.
