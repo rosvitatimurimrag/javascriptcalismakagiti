@@ -27,12 +27,7 @@ JAVASCRIPT ÇALIŞMA SORULARI
 8.	Kullanıcıdan istenilen değere göre faktoriyel alan ve bu değeri ekrana “Girdiğiniz sayının faktöriyeli….**’dir.” Şeklinde uyarı mesajı olarak yazdıran program.
 	
 
-9.	Kullanıcıdan istenilen değere göre ekrana alt alta artan şekilde
-	
-*
-**
-*** 
-yazdıran program.
+9.	Kullanıcıdan istenilen değere göre yıldızları ekrana alt alta artan şekilde yazdıran program.
 
 
 10.	Kullanıcıdan istenilen sayıyı yine kullanıcının istediği sayıya bölündüğünde kalanı ekrana “* sayısı * sayısına bölündüğünde kalan değer.. ?’dır” şeklinde yazdıran program.
