@@ -19,7 +19,7 @@ JAVASCRIPT ÇALIŞMA SORULARI
 5.	Kullanıcıya iki sayı sorup bu sayıların bölümünü ekrana uyarı mesajı olarak “Bu sayıların toplamı….:**’dır” şeklinde yazdıran program.   
 
 6.	Kullanıcıya hem ismini hem de 1.yazılı 2.yazılı 1.sözlü 2.sözlü puanlarını sorup ortalamasını alan, çıkan sonucu ekrana uyarı mesajı olarak “…… isimli kişinin ortalama puanı **’dır” yazan, ayrıca bu kişinin notu 50’den yüksekse ekrana “GEÇTİ” düşükse “KALDI” şeklinde ekrana uyarı mesajı yazan program. 
-7.	
+	
 
 7.	Kullanıcı “0” değerini girene kadar girdiği sayıların çarpımını alıp ekrana “Girdiğiniz sayıların çarpımı **’dır.” Şeklinde uyarı mesajı olarak yazdıran program.
 
@@ -28,13 +28,14 @@ JAVASCRIPT ÇALIŞMA SORULARI
 	
 
 9.	Kullanıcıdan istenilen değere göre ekrana alt alta artan şekilde
+	
 *
 **
 *** 
 yazdıran program.
 
 
-10.	Kullanıcıdan istenilen sayıyı yine kullanıcının istediği sayıya bölündüğünde kalanı ekrana “* sayısı * sayısına bölündüğünde kalan değer..:*’dır” şeklinde yazdıran program.
+10.	Kullanıcıdan istenilen sayıyı yine kullanıcının istediği sayıya bölündüğünde kalanı ekrana “* sayısı * sayısına bölündüğünde kalan değer.. ?’dır” şeklinde yazdıran program.
 	
 
 
@@ -66,7 +67,7 @@ yazdıran program.
 
 
 17.	Kullanıcının istediği değere kadar olan sayıları ekrana alt alta yazdıran program.
-18.	
+	
 
 18.	Kullanıcıdan aldığı mesajı ekrana kullanıcının istediği kadar yazdıran program.
 
@@ -77,10 +78,10 @@ yazdıran program.
 20.	Do-while döngü yapısı ile 20 defa ekrana merhaba yazdıran program.
 	
 
-21.	Haftanın günlerini diziler içinde tutup kullanıcıya “Haftanın kaçıncı gününün gösterilmesini istersiniz ?”şeklinde sorup 1.gün pazartesi 7.gün Pazar olacak şekilde ekrana uyarı mesajı olarak “haftanın *.günü *’dır.” Şeklinde yazdıran program.
+21.Haftanın günlerini diziler içinde tutup kullanıcıya “Haftanın kaçıncı gününün gösterilmesini istersiniz ?”şeklinde sorup 1.gün pazartesi 7.gün Pazar olacak şekilde ekrana uyarı mesajı olarak “haftanın *.günü *’dır.” Şeklinde yazdıran program.
 
 
-22.	Diziler kullanılarak kullanıcıya 5 öğrenci ismi girmeleri istenerek, her öğrencinin web tasarım dersi notlarını alıp, ekrana alt alta yazdıran program.
+22.	Diziler kullanılarak kullanıcıya 5 öğrenci ismi girmeleri istenerek, her öğrencinin web tasarım dersi notlarını alıp, ekrana 		alt alta yazdıran program.
 
 
 23.	Kullanıcıya kaç sayı girmek istediğini sorup bu sayılara diziye aktaran ve ekrana
