@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SORU2</title>
+<script language="Javascript" type="text/javascript">
+var isim=prompt("İsminiz?");
+var yazili1=prompt("1. Yazılıyı giriniz: ");
+var yazili2=prompt("2. Yazılıyı giriniz: ");
+var sozlu1=prompt("1. Sözlüyü giriniz: ");
+var sozlu2=prompt("2. Sözlüyü giriniz: ");
+
+var ortalama=(yazili1 + yazili2 + sozlu1 + sozlu2 / 4);
+if(ortalama > 50)
+{
+document.write(isim+"İsimli kişinin ortalama puanı :" + Number(ortalama)+ "geçtiniz");
+}
+else
+{
+document.write("Kaldınız: " + Number(ortalama));
+}
+
+</script>
+</head>
+<body>
+
+</body>

@@ -1,0 +1,57 @@
+<html>
+<head>
+<meta charset=utf-8>
+<title>Javascript Sorular fln</title>
+<script language=Javascript type=text/javascript>
+document.write("1. 2 sayıyı toplama <br>");
+document.write("2. 2 sayıyı çıkarma <br>");
+document.write("3. 2 sayıyı çarpma <br>");
+document.write("4. 2 sayıyı bölme <br>");
+
+var islemsayi=prompt("Lütfen yapacağınız işlemle aynı numarada bir sayı giriniz:");
+
+switch(islemsayi)
+{
+case "1":
+
+var sayi1=prompt("Lütfen bir sayı giriniz: ");
+var sayi2=prompt("Lütfen bir sayı daha giriniz: ");
+alert("Girdiğiniz sayıların toplamı:"+Number(sayi1)+Number(sayi2)+" dır.");
+
+break;
+
+case "2":
+
+var sayi1=prompt("Lütfen bir sayı giriniz: ");
+var sayi2=prompt("Lütfen bir sayı daha giriniz: ");
+alert("Girdiğiniz sayıların farkı:"+Number(sayi1)-Number(sayi2)+" dır.");
+
+break;
+
+case "3":
+
+var sayi1=prompt("Lütfen bir sayı giriniz: ");
+var sayi2=prompt("Lütfen bir sayı daha giriniz: ");
+alert("Girdiğiniz sayıların çarpımı:"+Number(sayi1)*Number(sayi2)+" dır.");
+
+break;
+
+case "4":
+
+var sayi1=prompt("Lütfen bir sayı giriniz: ");
+var sayi2=prompt("Lütfen bir sayı daha giriniz: ");
+alert("Girdiğiniz sayıların bölümü:"+Number(sayi1)/Number(sayi2)+" dır."));
+
+break;
+
+default:
+alert("Lütfen 1-4 arasında bir sayı giriniz...");
+break;
+}
+
+</script>
+</head>
+<body>
+
+</body>
+</html>

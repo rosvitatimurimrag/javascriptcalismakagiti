@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta charset=utf-8>
+<title>JS Yarışma</title>
+<script language=Javascript type=text/javascript>
+var sayisoru=prompt("Sayı giriniz: ");
+var rasgelesayi= Math.ceil(Math.random() * 100);
+
+if(sayisoru == rasgelesayi)
+{
+document.write("Tebrikler bildiniz..."+"<br>");
+document.write("Doğru sayı :" + rasgelesayi);
+}
+else if(sayisoru < rasgelesayi)
+{
+document.write("Düşük sayı girdiniz... "+"<br>");
+document.write("Doğru sayı :" + rasgelesayi);
+}
+else if(sayisoru > rasgelesayi)
+{
+document.write("Büyük sayı girdiniz..."+"<br>");
+document.write("Doğru sayı :" + rasgelesayi);
+}
+
+</script>
+</head>
+<body>
+
+</body>
+</html>
